@@ -29,11 +29,11 @@ This repository contains a learning roadmap for Backend, Linux, CI/CD & DevOps, 
 - [Python deep dive 4 (40h)](https://www.udemy.com/course/python-3-deep-dive-part-4/)
 - [Two scopes of django (3.x)](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 - [Python deep dive 2 (35h)](https://www.udemy.com/course/python-3-deep-dive-part-2/)
-- [#11](/../../issues/11) [Python deep dive 3 (35h)](https://www.udemy.com/course/python-3-deep-dive-part-2/)
-- [#12](/../../issues/12) [FastAPI Docs](https://fastapi.tiangolo.com/)
-- [#13](/../../issues/13) [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301)
-- [#14](/../../issues/14) [SQLAlchemy ORM DOCS](https://docs.sqlalchemy.org/en/20/)
-- [#15](/../../issues/15) [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
+- [Python deep dive 3 (35h)](https://www.udemy.com/course/python-3-deep-dive-part-2/)
+- [FastAPI Docs](https://fastapi.tiangolo.com/)
+- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301)
+- [SQLAlchemy ORM DOCS](https://docs.sqlalchemy.org/en/20/)
+- [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
 
 ## CI/CD & DevOps & Server
 
@@ -48,11 +48,20 @@ This repository contains a learning roadmap for Backend, Linux, CI/CD & DevOps, 
 - [Kubernetes Essentials (5h)](https://acloudguru.com/course/kubernetes-essentials)
 - [Kubernetes and Cloud Native Associate (KCNA) (11h)](https://acloudguru.com/course/kubernetes-and-cloud-native-associate-kcna)
 
-## Architecture And Software Design And Algorithm
+
+## Software Architecture And Design
 
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
-- [The Ultimate Data Structures & Algorithms Course (13h)](https://codewithmosh.com/p/data-structures-algorithms)
-- [The Ultimate Design Patterns By Mosh (8h)](https://codewithmosh.com/p/design-patterns)
 - [Software Architecture & Technology of Large-Scale Systems (25h)](https://www.udemy.com/course/developer-to-architect/)
 - [Patterns of Enterprise Application Architecture (by Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+
+
+## Algorithm
+
+- [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
+- [The Ultimate Data Structures & Algorithms Course (13h)](https://codewithmosh.com/p/data-structures-algorithms)
+
+
+## Design Patterns
+
+- [The Ultimate Design Patterns By Mosh (8h)](https://codewithmosh.com/p/design-patterns)
